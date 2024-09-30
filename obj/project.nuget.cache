@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gcj6/4tRNXihT+6ESGfuCPIiHHbpoEgsBZL0cha4Mg67ahutqQG8z+vT/AMGVSLuLKsIW9v7eHP6s0GKiSxQjA==",
+  "success": true,
+  "projectFilePath": "D:\\Automation\\DevDotTo\\DevTo\\DevTo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bijay\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\bijay\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\bijay\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\bijay\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.7000\\selenium.webdriver.chromedriver.129.0.6668.7000.nupkg.sha512",
+    "C:\\Users\\bijay\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\bijay\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
